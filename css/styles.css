@@ -267,6 +267,7 @@ img {
 .team-icon-list {
     display: flex;
     justify-content: center;
+    margin-top: 16px;
 }
 .team-icon-link {
     display: flex;
